@@ -1,0 +1,12 @@
+  *{
+    cursor: url(naxida.cur), auto !important;
+  }
+
+  body {
+    cursor: url(naxida.cur), auto !important;
+  }
+
+  a,
+  img {
+    cursor: url(naxida.cur), auto !important; 
+  }
