@@ -127,6 +127,10 @@ svg.icon.faa-tada {
     background: rgba(255, 255, 255, 0.9);
 }
 
+#aside-content .card-info #card-info-btn {
+    border-radius: 30px;
+}
+
 /* 文章页面正文背景 */
 div#post {
     background: rgba(255, 255, 255, 0.9);
@@ -207,7 +211,7 @@ div#category {
 }
 
 ::-webkit-scrollbar-thumb {
-    background-color: #3b70fc;
+    background-color: #ffaaee;
     border-radius: 2em;
 }
 
@@ -217,7 +221,7 @@ div#category {
 
 ::-moz-selection {
     color: #fff;
-    background-color: #3b70fc;
+    background-color: #ffaaee;
 }
 
 /* 音乐播放器 */
